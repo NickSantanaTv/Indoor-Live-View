@@ -28,6 +28,7 @@ html{
 .navbar{
     border-bottom: solid #000000 0.001px;
     padding: 5px;
+    margin-top: 15px
 }
 
 .navbar li{
